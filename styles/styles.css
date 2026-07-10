@@ -9,13 +9,14 @@ header {
 }
 
 nav {
-    text-align: center;
+    text-align: left;
 }
 
 nav a {
-    color: blue;
+    color: white;
     padding: 10px;
     display: block;
+    margin: 0 15px;
 }
 
 h1 {
