@@ -9,11 +9,10 @@ header {
 }
 
 nav {
-    nav {
-        text-align: left;
-        background-color: steelblue;
-        padding: 1em;
-    }
+
+    text-align: left;
+    background-color: steelblue;
+    padding: 1em;
 }
 
 nav a {
